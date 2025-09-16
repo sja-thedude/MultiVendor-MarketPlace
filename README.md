@@ -21,6 +21,8 @@ A multi-vendor e-commerce platform showcasing authentication, product management
 	•	Authentication: Laravel Breeze + Inertia
 	•	Payments: Stripe/PayPal
 
+Demo - [Here](https://www.linkedin.com/posts/sja-thedude_laravel-php-vite-activity-7370263943979806720-KVVu?utm_medium=ios_app&rcm=ACoAABS91EUBTvgGC8d-wxNwIkUecc2j3-CiwEk&utm_source=social_share_video_v2&utm_campaign=copy_link)
+
 📂 Project Structure
 	•	app/Models → User, Vendor, Product, Order, Review
 	•	resources/js/Pages → Vue components (frontend)
